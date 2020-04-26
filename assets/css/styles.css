@@ -1,0 +1,16 @@
+nav li.nav-item {
+    border-top: 1px solid #ffffff1a;
+    border-bottom: 1px solid #ffffff1a;
+}
+
+.btn-primary {
+    background-color: #bf0009!important;
+}
+
+body {
+    text-align: center;
+}
+
+body nav {
+    text-align: left;
+}
